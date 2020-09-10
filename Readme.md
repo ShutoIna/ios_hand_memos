@@ -1,4 +1,4 @@
-# ios用mediapipeのmultihandtracking設定について
+## ios用mediapipeのmultihandtrackingの設定ついて
 
 以下のページを参照してください
 大まかな進め方(versionによる多少の違いあり)→(<https://qiita.com/yamatohkd/items/0f5b9b031ec0976d872a>)  
